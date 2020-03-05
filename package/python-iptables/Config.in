@@ -1,0 +1,6 @@
+config BR2_PACKAGE_PYTHON_IPTABLES
+	bool "python-iptables"
+	help
+	  Python bindings for iptables.
+
+	  https://github.com/ldx/python-iptables
